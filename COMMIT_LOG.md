@@ -6,3 +6,4 @@
 ## 2020-03-22 20:47:41 - feat(build): add build endpoint (19/20)
 ## 2020-03-29 11:06:13 - feat(infra): create infra handler (3/20)
 ## 2020-05-17 18:15:32 - feat(log): add log support (9/20)
+## 2020-05-23 09:55:57 - feat(ui): add ui endpoint (20/20)
