@@ -9,3 +9,4 @@
 ## 2020-05-23 09:55:57 - feat(ui): add ui endpoint (20/20)
 ## 2020-05-30 13:41:48 - feat(alert): implement alert module (14/20)
 ## 2020-06-02 18:50:54 - feat(db): implement db feature
+## 2020-06-06 22:16:37 - feat(data): create data handler (16/20)
