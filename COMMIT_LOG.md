@@ -331,3 +331,4 @@
 ## 2020-06-06 23:19:05 - feat(api): implement api feature (7/20)
 ## 2020-06-29 22:31:46 - feat(ci): add ci endpoint
 ## 2020-07-04 22:52:41 - feat(ci): add ci endpoint (3/20)
+## 2020-07-14 21:47:14 - feat(ui): implement ui module
