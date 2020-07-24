@@ -174,3 +174,4 @@
 ## 2020-07-04 22:52:41 - feat(ci): add ci endpoint (3/20)
 ## 2020-07-14 21:47:14 - feat(ui): implement ui module
 ## 2020-07-19 18:12:04 - feat(security): implement security feature (14/20)
+## 2020-07-24 17:18:17 - feat(security): add security endpoint
