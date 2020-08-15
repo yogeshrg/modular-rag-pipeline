@@ -334,3 +334,4 @@
 ## 2020-07-14 21:47:14 - feat(ui): implement ui module
 ## 2020-07-19 18:12:04 - feat(security): implement security feature (14/20)
 ## 2020-07-24 17:18:17 - feat(security): add security endpoint
+## 2020-08-15 15:43:37 - feat(security): implement security module (9/20)
