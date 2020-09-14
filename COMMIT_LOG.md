@@ -18,3 +18,4 @@
 ## 2020-07-24 17:18:17 - feat(security): add security endpoint
 ## 2020-08-15 15:43:37 - feat(security): implement security module (9/20)
 ## 2020-08-16 10:39:39 - feat(test): implement test module (20/20)
+## 2020-09-14 15:41:01 - feat(monitor): implement monitor module
