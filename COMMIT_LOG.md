@@ -20,3 +20,4 @@
 ## 2020-08-16 10:39:39 - feat(test): implement test module (20/20)
 ## 2020-09-14 15:41:01 - feat(monitor): implement monitor module
 ## 2020-10-07 21:49:17 - feat(auth): add auth endpoint
+## 2020-10-16 10:04:16 - feat(model): add model support
