@@ -340,3 +340,4 @@
 ## 2020-10-07 21:49:17 - feat(auth): add auth endpoint
 ## 2020-10-16 10:04:16 - feat(model): add model support
 ## 2020-10-26 12:14:52 - feat(core): create core handler
+## 2020-11-07 22:03:47 - feat(model): implement model feature (18/20)
