@@ -23,3 +23,4 @@
 ## 2020-10-16 10:04:16 - feat(model): add model support
 ## 2020-10-26 12:14:52 - feat(core): create core handler
 ## 2020-11-07 22:03:47 - feat(model): implement model feature (18/20)
+## 2020-12-06 20:37:47 - feat(docs): add docs support (6/20)
