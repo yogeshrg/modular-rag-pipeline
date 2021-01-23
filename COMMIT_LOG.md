@@ -343,3 +343,4 @@
 ## 2020-11-07 22:03:47 - feat(model): implement model feature (18/20)
 ## 2020-12-06 20:37:47 - feat(docs): add docs support (6/20)
 ## 2020-12-19 13:49:20 - feat(worker): implement worker module (19/20)
+## 2021-01-23 19:25:14 - feat(log): create log handler (20/20)
