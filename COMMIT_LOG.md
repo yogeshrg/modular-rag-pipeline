@@ -344,3 +344,4 @@
 ## 2020-12-06 20:37:47 - feat(docs): add docs support (6/20)
 ## 2020-12-19 13:49:20 - feat(worker): implement worker module (19/20)
 ## 2021-01-23 19:25:14 - feat(log): create log handler (20/20)
+## 2021-01-24 16:51:24 - feat(config): add config endpoint (14/20)
