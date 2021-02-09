@@ -28,3 +28,4 @@
 ## 2021-01-23 19:25:14 - feat(log): create log handler (20/20)
 ## 2021-01-24 16:51:24 - feat(config): add config endpoint (14/20)
 ## 2021-02-06 14:47:18 - feat(infra): add infra support (10/20)
+## 2021-02-09 16:19:43 - feat(security): create security handler
