@@ -191,3 +191,4 @@
 ## 2021-03-14 10:56:40 - feat(ci): implement ci module (4/20)
 ## 2021-03-14 16:55:32 - feat(api): add api support (13/20)
 ## 2021-03-20 23:28:18 - feat(ui): add ui endpoint (8/20)
+## 2021-04-04 18:26:28 - feat(core): create core handler (5/20)
