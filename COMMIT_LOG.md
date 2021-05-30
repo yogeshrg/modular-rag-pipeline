@@ -354,3 +354,4 @@
 ## 2021-04-10 13:43:01 - feat(worker): create worker handler (1/20)
 ## 2021-04-11 18:04:50 - feat(data): add data support (11/20)
 ## 2021-05-15 14:47:57 - feat(alert): create alert handler (6/20)
+## 2021-05-30 22:22:00 - feat(cache): implement cache module (10/20)
