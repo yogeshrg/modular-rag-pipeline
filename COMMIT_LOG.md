@@ -40,3 +40,4 @@
 ## 2021-06-08 16:21:35 - feat(api): add api support
 ## 2021-06-19 16:40:12 - feat(core): implement core module (9/20)
 ## 2021-06-26 10:49:01 - feat(docs): implement docs module (7/20)
+## 2021-07-04 12:38:43 - feat(core): implement core feature (12/20)
