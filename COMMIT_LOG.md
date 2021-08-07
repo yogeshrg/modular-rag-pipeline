@@ -360,3 +360,4 @@
 ## 2021-06-26 10:49:01 - feat(docs): implement docs module (7/20)
 ## 2021-07-04 12:38:43 - feat(core): implement core feature (12/20)
 ## 2021-07-17 11:01:33 - feat(queue): add queue endpoint (18/20)
+## 2021-08-07 16:02:39 - feat(model): create model handler (6/20)
