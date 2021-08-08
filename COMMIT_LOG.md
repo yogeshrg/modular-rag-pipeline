@@ -44,3 +44,4 @@
 ## 2021-07-17 11:01:33 - feat(queue): add queue endpoint (18/20)
 ## 2021-08-07 16:02:39 - feat(model): create model handler (6/20)
 ## 2021-08-07 18:19:05 - feat(auth): implement auth feature (14/20)
+## 2021-08-08 11:58:56 - feat(infra): create infra handler (2/20)
