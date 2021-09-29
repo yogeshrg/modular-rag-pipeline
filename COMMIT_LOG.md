@@ -46,3 +46,4 @@
 ## 2021-08-07 18:19:05 - feat(auth): implement auth feature (14/20)
 ## 2021-08-08 11:58:56 - feat(infra): create infra handler (2/20)
 ## 2021-09-25 12:47:40 - feat(security): implement security module (13/20)
+## 2021-09-29 12:51:19 - feat(worker): add worker endpoint
