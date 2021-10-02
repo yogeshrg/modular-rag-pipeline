@@ -47,3 +47,4 @@
 ## 2021-08-08 11:58:56 - feat(infra): create infra handler (2/20)
 ## 2021-09-25 12:47:40 - feat(security): implement security module (13/20)
 ## 2021-09-29 12:51:19 - feat(worker): add worker endpoint
+## 2021-10-02 13:18:56 - feat(monitor): implement monitor feature (19/20)
