@@ -207,3 +207,4 @@
 ## 2021-09-25 12:47:40 - feat(security): implement security module (13/20)
 ## 2021-09-29 12:51:19 - feat(worker): add worker endpoint
 ## 2021-10-02 13:18:56 - feat(monitor): implement monitor feature (19/20)
+## 2021-11-06 12:28:31 - feat(cache): implement cache feature (3/20)
