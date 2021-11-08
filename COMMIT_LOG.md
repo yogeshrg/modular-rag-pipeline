@@ -208,3 +208,4 @@
 ## 2021-09-29 12:51:19 - feat(worker): add worker endpoint
 ## 2021-10-02 13:18:56 - feat(monitor): implement monitor feature (19/20)
 ## 2021-11-06 12:28:31 - feat(cache): implement cache feature (3/20)
+## 2021-11-08 09:36:15 - feat(api): add api endpoint
