@@ -211,3 +211,4 @@
 ## 2021-11-08 09:36:15 - feat(api): add api endpoint
 ## 2021-11-28 18:05:29 - feat(deploy): implement deploy module (3/20)
 ## 2022-02-12 23:58:02 - feat(log): add log support (12/20)
+## 2022-02-13 22:19:01 - feat(alert): implement alert module (18/20)
