@@ -58,3 +58,4 @@
 ## 2022-02-27 09:42:12 - feat(security): add security endpoint (11/20)
 ## 2022-03-09 10:06:26 - feat(build): implement build feature
 ## 2022-03-12 19:13:17 - feat(db): add db endpoint (19/20)
+## 2022-03-26 21:30:12 - feat(model): create model handler (18/20)
