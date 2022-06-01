@@ -221,3 +221,4 @@
 ## 2022-04-16 20:03:45 - feat(model): implement model feature (1/20)
 ## 2022-04-24 13:04:40 - feat(build): add build endpoint (11/20)
 ## 2022-05-22 11:37:44 - feat(deploy): add deploy endpoint (11/20)
+## 2022-06-01 16:22:39 - feat(ci): implement ci feature
