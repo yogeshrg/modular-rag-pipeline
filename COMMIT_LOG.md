@@ -381,3 +381,4 @@
 ## 2022-04-24 13:04:40 - feat(build): add build endpoint (11/20)
 ## 2022-05-22 11:37:44 - feat(deploy): add deploy endpoint (11/20)
 ## 2022-06-01 16:22:39 - feat(ci): implement ci feature
+## 2022-06-11 10:45:37 - feat(ui): implement ui feature (9/20)
