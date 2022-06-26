@@ -224,3 +224,4 @@
 ## 2022-06-01 16:22:39 - feat(ci): implement ci feature
 ## 2022-06-11 10:45:37 - feat(ui): implement ui feature (9/20)
 ## 2022-06-18 11:33:54 - feat(queue): implement queue feature (17/20)
+## 2022-06-26 20:27:59 - feat(ci): add ci support (16/20)
