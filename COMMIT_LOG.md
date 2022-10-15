@@ -390,3 +390,4 @@
 ## 2022-09-24 13:53:37 - feat(test): add test support (20/20)
 ## 2022-10-01 09:38:36 - feat(model): implement model module (19/20)
 ## 2022-10-08 20:57:40 - feat(metric): implement metric feature (11/20)
+## 2022-10-15 21:35:06 - feat(build): add build endpoint (18/20)
