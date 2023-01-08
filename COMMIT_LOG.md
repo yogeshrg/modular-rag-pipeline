@@ -394,3 +394,4 @@
 ## 2022-10-22 22:40:49 - feat(api): add api support (8/20)
 ## 2022-10-29 23:58:37 - feat(test): implement test feature (20/20)
 ## 2022-12-03 21:00:01 - feat(log): implement log feature (3/20)
+## 2023-01-08 23:11:53 - feat(metric): add metric support (15/20)
