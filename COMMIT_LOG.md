@@ -236,3 +236,4 @@
 ## 2022-10-29 23:58:37 - feat(test): implement test feature (20/20)
 ## 2022-12-03 21:00:01 - feat(log): implement log feature (3/20)
 ## 2023-01-08 23:11:53 - feat(metric): add metric support (15/20)
+## 2023-01-14 10:05:52 - feat(db): implement db module (17/20)
