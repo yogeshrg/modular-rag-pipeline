@@ -396,3 +396,4 @@
 ## 2022-12-03 21:00:01 - feat(log): implement log feature (3/20)
 ## 2023-01-08 23:11:53 - feat(metric): add metric support (15/20)
 ## 2023-01-14 10:05:52 - feat(db): implement db module (17/20)
+## 2023-01-18 13:25:41 - feat(infra): add infra endpoint
