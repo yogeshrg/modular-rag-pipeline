@@ -241,3 +241,4 @@
 ## 2023-03-11 09:11:47 - feat(ui): implement ui module (19/20)
 ## 2023-04-09 22:52:28 - feat(monitor): add monitor endpoint (13/20)
 ## 2023-05-13 18:13:48 - feat(security): implement security feature (14/20)
+## 2023-05-14 15:33:21 - feat(core): add core support (8/20)
