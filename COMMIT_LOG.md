@@ -83,3 +83,4 @@
 ## 2023-04-09 22:52:28 - feat(monitor): add monitor endpoint (13/20)
 ## 2023-05-13 18:13:48 - feat(security): implement security feature (14/20)
 ## 2023-05-14 15:33:21 - feat(core): add core support (8/20)
+## 2023-05-29 10:11:54 - feat(monitor): create monitor handler
