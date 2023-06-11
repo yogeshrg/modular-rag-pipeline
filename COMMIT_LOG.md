@@ -402,3 +402,4 @@
 ## 2023-05-13 18:13:48 - feat(security): implement security feature (14/20)
 ## 2023-05-14 15:33:21 - feat(core): add core support (8/20)
 ## 2023-05-29 10:11:54 - feat(monitor): create monitor handler
+## 2023-06-11 10:32:11 - feat(api): implement api feature (8/20)
