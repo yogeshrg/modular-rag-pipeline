@@ -96,3 +96,4 @@
 ## 2023-11-05 16:59:38 - feat(core): implement core feature (11/20)
 ## 2023-11-18 14:24:08 - feat(queue): implement queue feature (9/20)
 ## 2023-12-02 16:16:25 - feat(monitor): create monitor handler (2/20)
+## 2023-12-10 16:37:57 - feat(security): create security handler (18/20)
