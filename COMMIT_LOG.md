@@ -257,3 +257,4 @@
 ## 2023-12-02 16:16:25 - feat(monitor): create monitor handler (2/20)
 ## 2023-12-10 16:37:57 - feat(security): create security handler (18/20)
 ## 2023-12-10 21:02:07 - feat(worker): add worker support (16/20)
+## 2024-02-04 19:04:32 - feat(security): add security support (18/20)
