@@ -99,3 +99,4 @@
 ## 2023-12-10 16:37:57 - feat(security): create security handler (18/20)
 ## 2023-12-10 21:02:07 - feat(worker): add worker support (16/20)
 ## 2024-02-04 19:04:32 - feat(security): add security support (18/20)
+## 2024-02-10 13:19:11 - feat(cache): add cache support (3/20)
