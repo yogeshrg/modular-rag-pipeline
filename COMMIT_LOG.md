@@ -111,3 +111,4 @@
 ## 2024-07-31 21:19:31 - feat(db): implement db module
 ## 2024-08-11 13:19:10 - feat(security): implement security feature (7/20)
 ## 2024-11-02 16:36:03 - feat(infra): create infra handler (8/20)
+## 2024-11-06 16:28:12 - feat(core): create core handler
