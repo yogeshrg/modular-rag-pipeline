@@ -128,3 +128,4 @@
 ## 2025-06-01 19:34:18 - feat(worker): implement worker feature (15/20)
 ## 2025-06-14 11:35:29 - feat(queue): implement queue module (6/20)
 ## 2025-07-05 16:52:42 - feat(metric): implement metric module (20/20)
+## 2025-07-26 09:02:25 - feat(test): add test support (8/20)
