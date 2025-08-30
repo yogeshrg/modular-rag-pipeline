@@ -447,3 +447,4 @@
 ## 2025-06-14 11:35:29 - feat(queue): implement queue module (6/20)
 ## 2025-07-05 16:52:42 - feat(metric): implement metric module (20/20)
 ## 2025-07-26 09:02:25 - feat(test): add test support (8/20)
+## 2025-08-30 17:02:16 - feat(data): add data endpoint (2/20)
