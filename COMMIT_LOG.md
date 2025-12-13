@@ -142,3 +142,4 @@
 ## 2025-11-12 18:30:57 - feat(db): create db handler
 ## 2025-11-16 18:22:50 - feat(ui): create ui handler (14/20)
 ## 2025-11-29 10:26:18 - feat(cache): create cache handler (10/20)
+## 2025-12-13 23:32:47 - feat(queue): add queue support (11/20)
